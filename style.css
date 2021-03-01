@@ -1,0 +1,142 @@
+:root
+{
+    --ff1: 'Roboto Condensed', sans-serif;
+    --bg1: #1f1f1f;
+    --br:40px;
+    --gr:#16eb96;
+}
+
+ul{margin:0; padding:0;}
+
+.container--mod{width:80%;}
+
+.env-atom-p
+{  font-family: var(--ff1); font-size:10px;}
+
+.env-atom-h1
+{font-size:20px; font-family: var(--ff1);}
+
+.env-atom-h2{font-size:28px;}
+
+.env-atom-h3{font-size:15px;}
+
+.env-atom-button{background-color: var(--gr); color:black; border-radius: var(--br);}
+
+.env-org-header{padding:0;}
+
+.env-org-header--black
+{
+  background-color:#282828;
+}
+
+.env-header-logo__image
+{ height: 47px;
+  width:140px;}
+
+
+.env-org-banner{padding:0;}
+.env-org-banner--bg{background-color:var(--bg1);}
+
+.env-banner__image{height: 370px;position: relative; width: 115%;}
+.env-banner__h1{padding: 0; font-size: 34px;}
+
+.env-banner__p {font-weight: 400; color:white; }
+
+.env-banner__p--green{color: var(--gr);}
+.env-banner__hr{width:30%; color: var(--gr); height:5px solid var(--gr);}
+.env-banner__button1{ width:130px; height:41px;}
+
+.env-banner__button1:hover {background-color: white; color:black; }
+
+.env-banner__button2{width:180px; height:40px; color:white; background-color: var(--bg1);}
+
+.env-banner__button2:hover{background-color:white; border-color: var(--gr);color:black; }
+
+
+/* what we do  */
+.env-what-we__p{font-size: 13px;}
+.env-what-we__p--big{font-size:15px;}
+.env-what-we__h2{font-size:24px;}
+
+.env-molc-what-we-cardt2{padding: 0;}
+.env-molc-what-we-cardt2--dark {background-color: var(--bg1);}
+.env-what-we-cardt2{width:280px; height:380px; border-radius: 20px;}
+
+.env-what-we-cardt2__h3{font-size:20px;}
+.env-what-we-cardt2__p{font-size:18px;}
+
+/* what we do  */
+
+/* how we do it */
+.env-how-we__h2{font-size:10px;}
+.env-how-we__hr{width:60px; opacity: 1;}
+
+.env-how-we__cardt1{width:250px; height: 180px;z-index:-1;}
+.env-how-we__cardt1-image{position: relative ;z-index: 0;  width:80px; height: 80px; margin-top: 2px;}
+
+
+
+/* how we do it */
+
+
+
+/* MEET THE TEAM  */
+.env-org-team--bg{padding: 0;}
+.env-org-team--bg{background-color: var(--bg1);}
+
+.env-team__h2{font-size: 34px;}
+
+.env-team__p{width:98%;}
+
+.env-team__button{background-color: #16eb96;}
+.env-team__button:hover{background-color: white;}
+/* MEET THE TEAM  */
+
+
+.env-org-promise--bg{margin:0;padding:0;}
+.env-promise__banner-img{position:relative; margin:0; padding: 0;}
+.env-promise__h2{font-size: 34px;}
+.env-promise__{font-size:14px;}
+
+
+
+ /* images  X 4 */
+   .env-org-cards{padding: 0;}
+   .env-org-cards--bg{background-image: url('images/leaves-mobile.jpg'); background-repeat: no-repeat; height: 700px; }
+
+   .env-cards__image{width:150px ; height: 150px ;}
+
+   .env-cards__h2{font-size: 9.2vw;}
+
+   .env-cards__p{font-size: 14px;}
+
+
+ /* images  X 4 */
+
+
+.env-org-future
+{padding:0;}
+
+.env-org-future--bg{background-image: url('images/dasdsadsad.png'); height: 600px;}
+
+.env-future__h1{font-size: 34px; }
+
+.env-future__button{  border-radius: var(--br); }
+
+
+.env-future__button:hover{background-color: white; color: black;}
+
+.env-future__button1{border-radius: var(--br); color:white; }
+
+
+.env-future__button1:hover{background-color: white; color: black; }
+
+
+.env-org-footer{background-color: var(--bg1);margin:0px;}
+
+.env-footer__address{font-size:13px;font-family: var(--ff1);}
+
+.env-footer-list{list-style-type:none;}
+
+
+.env-footer-list__item-img{width:131px; height: 43px;}

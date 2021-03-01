@@ -1,0 +1,39 @@
+
+
+.env-banner__p{font-size: 16px; width:78%;}
+
+.env-banner__button2{width:160px; height:40px;}
+
+
+
+
+/* MEET THE TEAM  */
+
+.env-team__button:hover{background-color: white;}
+/* MEET THE TEAM  */
+
+
+
+
+/* PROMISE */
+.env-org-promise--bg{background-image: url('images/statis-shape-background.jpg'); background-size: cover; height:600px;   }
+/* PROMISE */
+
+
+
+
+.env-org-cards--bg{background-image: url('images/leaves.jpg'); height: 601px; }
+
+.env-cards__image{width:210px ; height: 207px ;}
+.env-cards__h2{font-size: 44px;}
+
+
+
+
+.env-org-future--bg{background-image: url('images/dasdsadsad.png'); height: 350px;}
+
+.env-future__h1{font-size: 3.4vw;}
+
+.env-future__button{  border-radius: var(--br); }
+
+.env-future__button1{border-radius: var(--br); color:white; }

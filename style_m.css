@@ -1,0 +1,34 @@
+
+
+
+.env-banner__p{font-size: 16px; width:65%;}
+
+.env-banner__hr{width:70%; color: var(--gr); height:5px solid var(--gr);}
+.env-banner__image{height: 370px;position: relative; transform: scale(1,1.2);}
+
+
+.env-what-we-cardt2{width:550px; height:500px;}
+
+
+
+
+.env-org-cards--bg{background-size: cover; height: 834px;margin:0px 0px; }
+
+.env-cards__p{font-size: 17.9px;}
+
+
+
+
+
+
+
+.env-org-future--bg{background-image: url('images/dasdsadsad.png'); height: 302px;}
+
+.env-cards__image{width:320px ; height: 320px ;}
+
+.env-future__h1{font-size: 2.5vw; }
+
+.env-future__button{  border-radius: var(--br); }
+
+.env-future__button1{border-radius: var(--br); color:white; }
+
